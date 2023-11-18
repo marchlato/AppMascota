@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppMascotas</string>
+
+    <string name="textoBienvenida">Bienvenido!</string>
+    <string name="loginUsuario">Usuario</string>
+    <string name="loginContrasenia">Contraseña</string>
+    <string name="loginBtn">Entrar</string>
+    <string name="cardViewNombre">Catty</string>
+    <string name="cardViewLikes">5</string>
+    <string name="tituloAppBar">AppMascotas</string>
+    <string name="descriptionIconoToolbar">Imagen Huella</string>
+    <string name="tituloActionViewToolbar">Estrella</string>
+    <string name="itemMenuContacto">Contacto</string>
+    <string name="itemMenuAcercaDe">Acerca De</string>
+    <string name="descripcionImgCardView">Imagen Mascota</string>
+    <string name="hintEmail">Ingresa tu Email</string>
+    <string name="hintAsunto">Asunto</string>
+    <string name="hintMensaje">Mensaje</string>
+    <string name="btnEnviarMensaje">Enviar Mensaje</string>
+    <string name="tituloContactForm">Envianos un mensaje, con gusto te contactaremos lo más pronto posible...!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre_perfil">Gato y Perro</string>
+</resources>
